@@ -23,5 +23,3 @@ This project demonstrates the feasibility of using machine learning for traffic 
 
 ---
 [GitHub Repository](https://github.com/<yourusername>/traffic-prediction)
-
-Conclusion 
