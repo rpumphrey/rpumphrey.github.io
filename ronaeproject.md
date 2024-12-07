@@ -16,7 +16,8 @@ The METR-LA dataset contains traffic readings (speed, volume, and occupancy) fro
 
 ## Results
 Below is a visualization of the traffic speed data over time:
- <img src="METR_LA_Traffic_Speed_Plot.png" alt="Traffic Speed Plot"> plt.savefig('traffic_speed_plot.png', dpi=300)
+![Traffic Speed Plot](http://home.znet.com/schester/calculations/traffic/la/plots/all/la_weekdays.gif)
+
 
 
 ## Conclusion
