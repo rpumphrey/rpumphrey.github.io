@@ -1,7 +1,6 @@
  Machine learning can be used to predict traffic patterns and suggest optimal routes, which could reduce these negative impacts. This project aims to analyze traffic flow data to predict congestion levels at specific times and locations 
 
-The dataset for this project is the METR-LA Traffic Dataset, which contaisn traffic readings from loop detectors on Los Angeles County freeways. It includes data on speed, volume, and occupancy for various locations over several months. The dataset is available Github repository of the California Department of Transportation (Caltrans). git clone https://github.com/<yourusername>/traffic-prediction.git
-cd traffic-prediction
+The dataset for this project is the METR-LA Traffic Dataset, which contaisn traffic readings from loop detectors on Los Angeles County freeways. It includes data on speed, volume, and occupancy for various locations over several months. The dataset is available Github repository of the California Department of Transportation (Caltrans). 
 
 ## Introduction
 Traffic congestion in urban areas leads to increased travel time, fuel consumption, and air pollution. This project uses machine learning to predict traffic patterns and suggest optimal routes using the METR-LA dataset.
