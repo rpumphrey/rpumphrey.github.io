@@ -6,7 +6,8 @@ The dataset for this project is the METR-LA Traffic Dataset, which contaisn traf
 Traffic congestion in urban areas leads to increased travel time, fuel consumption, and air pollution. This project uses machine learning to predict traffic patterns and suggest optimal routes using the METR-LA dataset.
 
 ## Dataset
-The METR-LA dataset contains traffic readings (speed, volume, and occupancy) from loop detectors on Los Angeles County freeways. Access it (https://github.com/Caltrans/METR-LA).
+The METR-LA dataset contains traffic readings (speed, volume, and occupancy) from loop detectors on Los Angeles County freeways. Access it (https://github.com/Caltrans/METR-LA). ![Figure_1](https://github.com/user-attachments/assets/66486adb-3064-4403-aa0e-7a6dc636bf9b)
+
 
 ## Methodology
 - **Data Preprocessing**: Cleaned and explored the dataset to identify patterns.
