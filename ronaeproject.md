@@ -16,7 +16,8 @@ The METR-LA dataset contains traffic readings (speed, volume, and occupancy) fro
 
 ## Results
 Below is a visualization of the traffic speed data over time:
- <img src="METR_LA_Traffic_Speed_Plot.png" alt="Traffic Speed Plot">
+ <img src="METR_LA_Traffic_Speed_Plot.png" alt="Traffic Speed Plot"> plt.savefig('traffic_speed_plot.png', dpi=300)
+
 
 ## Conclusion
 This project demonstrates the feasibility of using machine learning for traffic prediction, with potential applications in route optimization and congestion management.
